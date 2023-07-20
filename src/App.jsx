@@ -74,28 +74,28 @@ function App() {
             </p>
             <div className='grid grid-cols-1 mt-6 space-y-4 text-lg'>
               <div>
-                <p className='font-bold'>(2022) Multiplayer Wordle</p>
+                <p className='font-bold'><a className="hover:underline decoration-dotted underline-offset-4" href="https://github.com/pranavgithub1/Multiplayer-Wordle-Frontend" target="_blank" rel="noopener noreferrer">(2022) Multiplayer Wordle</a></p>
                 Online multiplayer Wordle game, created in 12 hours for the MIT Blueprint Hackathon. Won 3rd place overall.
               </div>
               <div>
-                <p className='font-bold'>(2022) Browser Puzzle</p>
+                <p className='font-bold'><a className="hover:underline decoration-dotted underline-offset-4" href="https://pranavgithub1.github.io/puzzle_game/" target="_blank" rel="noopener noreferrer">(2022) Browser Puzzle</a></p>
                 Final project for AP Computer Science Principles course. Browser jigsaw puzzle game with custom jigsaw generation algorithm.
               </div>
               <div>
-                <p className='font-bold'>(2022) Find My Competition</p>
+                <p className='font-bold'><a className="hover:underline decoration-dotted underline-offset-4" href="https://pranavgithub1.github.io/Find-My-Competition/" target="_blank" rel="noopener noreferrer">(2022) Find My Competition</a></p>
                 Market research webapp I made for the microhacks hackathon. Won 1st Place.
               </div>
               <div>
-                <p className='font-bold'>(2022) Discord Lunch Bot</p>
+                <p className='font-bold'><a className="hover:underline decoration-dotted underline-offset-4" href="https://github.com/pranavgithub1/discord-bot" target="_blank" rel="noopener noreferrer">(2022) Discord Lunch Bot</a></p>
                 A discord bot I made to scrape my school's lunch menus off the web and display them for my classmates and I in our discord server.
               </div>
               <div>
-                <p className='font-bold'>(2021) ML Flood Forecasting</p>
+                <p className='font-bold'><a className="hover:underline decoration-dotted underline-offset-4" href="https://github.com/pranavgithub1/Flood-Prediction-Project" target="_blank" rel="noopener noreferrer">(2022) ML Flood Forecasting</a></p>
                 I applied machine learning techniques to forecast river streamflow given a large-scale dataset of meteorological observations.
                 Presented a poster at the 2021 Louisiana State of the Coast conference.
               </div>
               <div>
-                <p className='font-bold'>(2021) Ethereum Dashboard and Dataset</p>
+                <p className='font-bold'><a className="hover:underline decoration-dotted underline-offset-4" href="https://github.com/pranavgithub1/eth-dashboard" target="_blank" rel="noopener noreferrer">(2021) Ethereum Dashboard and Dataset</a></p>
                 I created a custom dataset of various Ethereum data, indicators, and on-chain metrics that updated based on a variety of free APIs.
                 To view this data I also created a web-based dashboard.
               </div>

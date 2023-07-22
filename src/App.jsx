@@ -21,8 +21,8 @@ function App() {
         <div className='fixed top-0 h-auto w-full pt-4 bg-white dark:bg-[#121212] border-inherit'>
           <div  className='w-full border-t border-b border-inherit py-2 px-8 flex'>
             <p className='text-3xl font-serif grow'>Pranav Jadhav</p>
-            <a href="https://github.com/pranavgithub1" target="_blank" rel="noopener noreferrer" className='pt-3 px-8'>Github</a>
-            <button className='pt-3' onClick={handleClick}>{displayThemeState(themeState)}</button>
+            <a href="https://github.com/pranavgithub1" target="_blank" rel="noopener noreferrer" className='mt-3 mx-8 flex items-center'>Github</a>
+            <button className='mt-3' onClick={handleClick}>{displayThemeState(themeState)}</button>
           </div>
         </div>
         
